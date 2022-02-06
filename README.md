@@ -37,4 +37,5 @@ For our implementation, the network was applied on nuclei of cell images. Howeve
 
 
 
-
+ The dataset is a public dataset found on kaggle https://www.kaggle.com/paultimothymooney/identification-and-segmentation-of-nuclei-in-cells
+ 
